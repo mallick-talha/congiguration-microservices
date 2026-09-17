@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "welcome to our bank QA"
+  contactDetails:
+    name: "TalhaHelal-qa"
+    email: "talhamallick444@gmail.com"
+  onCallSupport:
+    - "(666)555-134"
+    - "(666)523-132"

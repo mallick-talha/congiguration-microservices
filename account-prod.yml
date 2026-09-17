@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "welcome to our bank-prod "
+  contacDetails:
+    name: "TalhaHelal-prod"
+    email: "talhamallick444@gmail.com"
+  onCallSupport:
+    (777)555-134
+    -(777)523-132

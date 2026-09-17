@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "welcome to our bank_production owner "
+  contactDetails:
+    name: "TalhaHelal"
+    email: "talhamallick444@gmail.com"
+  onCallSupport:
+    - "(555)555-134"
+    - "(555)523-132"
