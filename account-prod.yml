@@ -8,7 +8,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "welcome to our bank-prod "
+  message: "welcome to our webhook owner "
   contacDetails:
     name: "TalhaHelal-prod"
     email: "talhamallick444@gmail.com"
