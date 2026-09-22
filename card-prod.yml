@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "welcome to our account prod webhook owner "
+  message: "welcome to our account prod webhookkk owner "
   contactDetails:
     name: "TalhaHelal"
     email: "talhamallick444@gmail.com"
